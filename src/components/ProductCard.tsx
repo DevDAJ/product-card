@@ -22,7 +22,7 @@ export default function NFTCard() {
 					<span className='line-through'>$169.99</span>
 				</div>
 				<button className='flex items-center justify-center gap-3 p-3 bg-ascent w-full rounded-md text-white'>
-					<img src='./icon-cart.svg' />
+					<img src='./icon-cart.svg' alt='cart' />
 					Add to Cart
 				</button>
 			</div>

@@ -11,12 +11,10 @@ export default function NFTCard() {
 			<div className='w-full h-[60%] md:w-[55%] md:h-full p-3 md:p-10 flex flex-col justify-between'>
 				<span>P E R F U M E</span>
 				<h1>Gabrielle Essence Eau De Parfum</h1>
-				<article>
-					<p>
-						A floral, solar and voluptuous interpretation composed by Olivier
-						Polge, Perfumer-Creator for the House of CHANEL.
-					</p>
-				</article>
+				<p>
+					A floral, solar and voluptuous interpretation composed by Olivier
+					Polge, Perfumer-Creator for the House of CHANEL.
+				</p>
 				<div className='flex items-center gap-5'>
 					<h2 className='text-ascent'>$149.99</h2>
 					<span className='line-through'>$169.99</span>
